@@ -7,12 +7,12 @@
 
 - 👨‍💻 All of my projects are available at [https://yogananda-devportfolio.netlify.app/](https://yogananda-devportfolio.netlify.app/)
 
-- 💬 Ask me about **JavaScript,ReactJS**
+- 💬 Ask me about **JavaScript,ReactJS,NodeJs**
 
 - 📫 How to reach me **yoganandapotnuru@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left">yoganandapotnuru@gmail.com
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

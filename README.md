@@ -12,7 +12,7 @@
 - 📫 How to reach me **yoganandapotnuru@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">yoganandapotnuru@gmail.com
+<p align="left">https://www.linkedin.com/in/yogananda-potnuru-468527234/
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

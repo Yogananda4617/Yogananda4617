@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yogananda</h1>
 <h3 align="center">A passionate FrontEnd Web Developer (Reactjs) from India</h3>
 
-- 🔭 I’m currently working on **INFOSYS Technologies**
+- 🔭 I’m currently working at **INFOSYS Technologies**
 
 - 🌱 I’m currently learning **MERN Full Stack Development course**
 
